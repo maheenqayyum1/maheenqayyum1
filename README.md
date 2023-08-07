@@ -1,4 +1,4 @@
-## Hey there! 👋
+## 👋 Hey there! 
 
 I'm Maheen Qayyum, a dedicated software engineering student with a passion for web designing (UI/UX). Welcome to my GitHub profile!
 
