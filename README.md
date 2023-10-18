@@ -4,7 +4,7 @@ I'm Maheen Qayyum, a dedicated software engineering student with a passion for f
 
 ## 🌱 Currently Focused On
 
-As a student of software engineering, I'm currently immersing myself in the world of frontend development, with a specific focus on React.js, Tailwind CSS, HTML, and CSS. I find joy in crafting interactive user interfaces and enhancing the overall user experience through effective frontend development.
+As a student of software engineering, I'm currently immersing myself in the world of frontend development, with a specific focus on React.js, Tailwind CSS, HTML, and CSS. I've honed my skills in these areas and am now expanding my knowledge by diving into TypeScript and Next.js. I find joy in crafting interactive user interfaces and enhancing the overall user experience through effective frontend development.
 
 ## 👀 What Intrigues Me
 
